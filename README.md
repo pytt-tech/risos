@@ -1,4 +1,5 @@
 # risos
+<h1>NOTICE: THIS PROJECT HAS BEEN SCRAPED AND A NEW ONE HAS BEEN CREATED DUE TO EXTREME COMPLICATIONS IN THE DEVELOPMENT STAGE PLASE VISIT https://github.com/pytt-tech/risosv2/ </h1>
 latest version is now v0.2.5
 update_log:
 improved and custom bootloader
