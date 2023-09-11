@@ -12,3 +12,5 @@ note:to reach me contact nerd2testly79@gmail.com
   also the bootloader is currently un-bootable.
   I am trying to fix this.
   I would like help please contact me for contribution access
+  please see the issues page for a full briefing of the issue
+
