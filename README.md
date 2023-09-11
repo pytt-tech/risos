@@ -1,7 +1,7 @@
 # risos
-latest version is now v0.1.0
+latest version is now v0.2.5
 update_log:
-added custom bootloader but not for long
+improved and custom bootloader
 
 upcoming updates:
 see new upcoming updates instead at the bottom of this README
@@ -20,4 +20,4 @@ new upcoming updates:
 v0.3.0: will implement grub instead.
 v1.0.0 will boot a minimal kernel
 <br>
-i found time to do this again and a tech to help me.thank you!
+I found time to do this again and a tech to help me.thank you!
